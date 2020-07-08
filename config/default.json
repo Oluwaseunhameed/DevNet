@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://admin:admin@devnet.y0x8z.mongodb.net/devnetDB?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://admin:admin@devnet.y0x8z.mongodb.net/devnetDB?retryWrites=true&w=majority",
+    "jwtSecret": "mywebtokensmallsecret"
 }
