@@ -20,5 +20,8 @@
     "mongoose": "^5.9.22",
     "normalize-url": "^5.0.0",
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0"
   }
 }
