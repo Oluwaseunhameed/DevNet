@@ -6,5 +6,3 @@
 
 
 DevNet is a social media platform where developers can connect with each other
-
-Please note that this project is still ongoing..
